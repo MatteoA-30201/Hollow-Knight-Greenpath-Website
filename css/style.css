@@ -20,6 +20,9 @@
   border-radius: 40px;
   background-color: #000505;
   padding: 20px;
+  height: 100%;
+  width: 400px;
+  color: #CFFCFF;
 }
 
 .heading-1 {
@@ -307,7 +310,7 @@ body {
 
 .homepage-position {
   position: absolute;
-  padding-top: 100px;
+  padding-top: 150px;
   z-index: 10;
   width: 100%;
 }
@@ -340,4 +343,9 @@ body {
   align-items: center;
   justify-content: center;
   width: 100%
+}
+
+.website-img {
+  width: 320px;
+  height: 180px;
 }
